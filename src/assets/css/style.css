@@ -1,0 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato&family=Zilla+Slab:wght@300;600&display=swap');
+
+
+  body {
+    font-family: 'Lato', sans-serif !important;
+    background-color: #f0fdf0;
+  }
+  .contact-img {
+    width: 150px;
+    border-radius: 50%;
+  }
+  .contact-img-big {
+    width: 200px;
+    border-radius: 50%;
+  }
